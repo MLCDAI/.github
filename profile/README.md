@@ -14,7 +14,7 @@ Thus, this project aims to develop a complete set of strategies for multilingual
 
 
 
-### 🧙 Remember, check our latest update:
+### 👉 Remember, check our latest update:
 - [Website](https://counterinfodemic.org)
 - [Youtube](https://www.youtube.com/channel/UCsf_Bd1QvG0oL46-J3QIojQ)
 - [Twitter](https://twitter.com/counterinfodem1)
