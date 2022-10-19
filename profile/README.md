@@ -1,5 +1,5 @@
 ## Welcome to the Multi-lingual Fake News Detection and Intervention  
-
+![](Screen Shot 2022-10-09 at 10.11.40 pm.png)
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
 The emergence of the Coronavirus Disease 2019 (COVID-19) epidemic has produced massive information related to COVID-19. Information distribution platforms such as mass media and social media allow information to be spread widely. Unfortunately, not all of the information is accurate or trustworthy. Some of the information spreading around those platforms can be categorised as misinformation or even be fake news.
