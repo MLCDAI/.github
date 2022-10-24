@@ -1,6 +1,6 @@
 ## Welcome to the Multi-lingual Fake News Detection and Intervention  
 <p align="center">
-<img src="/profile/Screen Shot 2022-10-09 at 10.11.40 pm.png" alt="WordCloud" style="height: 400px; width:800px;"/>
+<!--img src="/profile/Screen Shot 2022-10-09 at 10.11.40 pm.png" alt="WordCloud" style="height: 400px; width:800px;"/-->
 </p>
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
